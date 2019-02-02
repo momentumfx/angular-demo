@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+app-root {
+  display:block;
+  position:fixed;
+  top:30%;
+  left:50%;
+  transform:translateX(-50%);
+}
